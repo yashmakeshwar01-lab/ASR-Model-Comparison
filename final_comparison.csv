@@ -1,0 +1,7 @@
+Model,Condition,WER (%),Average Time (seconds)
+Faster-Whisper Tiny,Clean,13.65,1.014
+Faster-Whisper Tiny,Noisy,34.26,1.344
+Wav2Vec2 Base,Clean,5.04,1.638
+Wav2Vec2 Base,Noisy,32.35,1.513
+Faster-Whisper Small,Clean,7.91,6.78
+Faster-Whisper Small,Noisy,14.7,6.791
